@@ -1,0 +1,8 @@
+{
+    "decoded_output": "I\u0000E\u0000X\u0000 \u0000\"Invoke-WebRequest\"",
+    "indicators": [
+        "Invoke-WebRequest"
+    ],
+    "risk_score": 50,
+    "severity": "HIGH"
+}
